@@ -29,6 +29,6 @@ To run the as described in the paper, you will need the Rust programming languag
   
      4 = use column operations restricted to pivot pairs
     
-    Benchmarks for 2D/3D cubical data use the same format, but require the use of ```./code/target/release/compare_decomp_cubical2d``` and ```./code/target/release/compare_decomp_cubcial3d```, respectively.
+    Benchmarks for 2D/3D cubical data use the same format, but require the use of ```./code/target/release/compare_decomp_cubical2d``` and ```./code/target/release/compare_decomp_cubical3d```, respectively.
     
 
